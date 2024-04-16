@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola ¿Qué tal? 👋
+<hr>
+&emsp;Me llamo Víctor Pérez Sosa soy un <b>Progamador junnior</b> 🤖
+<br>
+&emsp;&emsp;Estoy altamente intereado en la programcaión en <b>Spring-Boot</b> 🍃 y <b>Java</b>😙☕👌<br>
+&emsp;&emsp;ME ENCANTA EL ANIME Y VIDEOJUEGOS👾👾👾<br>
+&emsp;&emsp;Soy una persona tranquila y de caracter desnefadado espero que desarrollemos juntos!!!🫵😇
+
 
 <!--
 **vicPerSos/vicPerSos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
